@@ -14,9 +14,11 @@ Views and Time: Below the title, there is information about how many views the v
 2.Possible Technologies Involved:
 
 HTML: To structure the content (cards, search bar, and video details).
+
 CSS: For the layout and design. You likely used CSS Grid or Flexbox for aligning the cards and a dark theme for background and text styling.
 
 3.Suggestions for Enhancing the Project:
 
 Hover Effects: Adding CSS hover effects on the cards (like highlighting, zooming the thumbnail, or showing additional information) could improve the user experience.
+
 Video Click: Make the cards clickable, leading to a video detail or playback page when a user clicks on a video.
